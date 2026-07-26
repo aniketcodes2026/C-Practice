@@ -39,7 +39,7 @@ int main(){
     cout<<"Following are the types of logical operators:"<<endl;
     cout<<"The value of this logical AND operator ((a==b) && (a<b)) is:"<<((a==b) && (a<b))<<endl;
     cout<<"The value of this logical OR operator ((a==b) || (a<b)) is:"<<((a==b) || (a<b))<<endl;
-    cout<<"The value of this logical AND operator (!((a==b) && (a<b))) is:"<<(!((a==b) && (a<b)))<<endl;
+    cout<<"The value of this logical NOT operator (!((a==b) && (a<b))) is:"<<(!((a==b) && (a<b)))<<endl;
 
     return 0;
 }
