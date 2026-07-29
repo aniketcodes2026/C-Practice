@@ -2,7 +2,6 @@
 using namespace std;
 
 int c=45;
-
 int main(){
     
     int a = 45;   
