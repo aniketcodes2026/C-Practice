@@ -3,12 +3,15 @@ using namespace std;
 
 int main(){
     int a = 3, b = 5;
+    
     cout<<"OPERATORS IN C++"<<endl;
     cout<<"Following are the types of operators in C++:"<<endl;
 
     //ARITHMETIC OPERATORS
+    
     cout<<endl;
     cout<<"Following are the types of arithmetic operators: "<<endl;
+    
     cout<<"The value of a + b is:"<<a+b<<endl; //sum
     cout<<"The value of a - b is:"<<a-b<<endl; //diff
     cout<<"The value of a * b is:"<<a*b<<endl; //prod
@@ -20,13 +23,16 @@ int main(){
     cout<<"The value of --a is:"<<--a<<endl; //first subs 1 then print a
 
     //ASSIGNMENT OPERATORS --> USED TO ASSIGN VALUESTO VARIABLES
+   
     //int a=3,b=5;
     //char d='d'
 
 
     //COMPARISON OPERATORS
+   
     cout<<endl;
     cout<<"Following are the types of comparison operators:"<<endl;
+    
     cout<<"The value of a == b is "<<(a==b)<<endl; //equals to
     cout<<"The value of a < b is "<<(a<b)<<endl; //a is less than b
     cout<<"The value of a > b is "<<(a>b)<<endl; //a is greater than b
@@ -35,8 +41,10 @@ int main(){
     cout<<"The value of a != b is "<<(a!=b)<<endl; //a is not equal to b
 
     //LOGICAL OPERATORS
+    
     cout<<endl;
     cout<<"Following are the types of logical operators:"<<endl;
+    
     cout<<"The value of this logical AND operator ((a==b) && (a<b)) is:"<<((a==b) && (a<b))<<endl;
     cout<<"The value of this logical OR operator ((a==b) || (a<b)) is:"<<((a==b) || (a<b))<<endl;
     cout<<"The value of this logical NOT operator (!((a==b) && (a<b))) is:"<<(!((a==b) && (a<b)))<<endl;
