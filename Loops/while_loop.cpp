@@ -1,8 +1,8 @@
 // syntax of while loops
-// while(condition)
-// {
-//     C++ statements;
-// }
+  // while(condition)
+  // {
+  //     C++ statements;
+  // }
 
 
 //Print all natural numbers till 40
