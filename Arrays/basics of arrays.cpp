@@ -28,5 +28,6 @@ int main(){
     {
         cout<<"the value of marks "<<i<<" is "<<marks[i]<<endl;
     }
+    return 0;
 }
 
