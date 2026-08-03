@@ -13,6 +13,8 @@ int main(){
     cout<<"enter second number "<<endl;
     cin>>num2;
     cout<<"the sum is "<<sum(num1, num2);  //num1 and num2 are actual parameters
+
+    return 0;
 }
 
 int sum(int a, int b){
