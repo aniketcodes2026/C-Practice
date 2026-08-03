@@ -12,7 +12,7 @@ int main(){
     cin>>num1;
     cout<<"enter second number "<<endl;
     cin>>num2;
-    cout<<"the sum is "<<sum(num1, num2);
+    cout<<"the sum is "<<sum(num1, num2);  //num1 and num2 are actual parameters
 }
 
 int sum(int a, int b){
