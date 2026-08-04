@@ -8,8 +8,6 @@ int main(){
             break;
         }
         cout<<i<<endl;
-        
-    }
+        }
         return 0;
-    
 }
