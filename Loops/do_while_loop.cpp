@@ -1,7 +1,7 @@
 // syntax of do while loop
-  // do{
-  //     C++ statements;
-  // }while(condition);
+// do{
+//     C++ statements;
+// }while(condition);
 
 
 // Print all natural number till 20
